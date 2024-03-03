@@ -22,3 +22,4 @@ jobs:
               -Dsonar.organization=paidahrithika
               -Dsonar.projectKey=PaidaHrithika_DevOps
               -Dsonar.python.coverage.reportPaths=coverage.xml
+          projectBaseDir: .
